@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './assets/css/style.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import  'bootstrap'
 import  'bootstrap-icons/font/bootstrap-icons.css'
+import App from "./App.jsx";
 
 
 
